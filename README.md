@@ -2,7 +2,7 @@
 ### 👀🧐 ReactJS, React Native, Java...
 ### 🌱📖 React Native, NoSQL, Mobile Development, Java SpringBoot.
 ### 💞️🤝 on React JS, React Native, Java Springboot.
-### 📫 dchapagain.tech@gmail.com.
+### 📫 dchapagain.dev@gmail.com.
 
 
 [![](https://visitcount.itsvg.in/api?id=deepagain81&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
