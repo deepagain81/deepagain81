@@ -61,7 +61,7 @@ Accomplished **Senior Software Engineer** with proven track record **since 2019*
 ## Statistics & Achievements
 | **Technology Breadth** | **GitHub Activity** |
 | :--- | :--- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepagain81&layout=compact&theme=vision-friendly-dark&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepagain81&show_icons=true&theme=vision-friendly-dark&hide_border=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepagain81&layout=compact&theme=vision-friendly-dark&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepagain81&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true) |
 
 ---
 
